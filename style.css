@@ -1,1 +1,28 @@
+body{
+    background-color: #4a154b!important;
+}
 
+nav{
+    display: flex;
+    color: white;
+
+}
+
+h1{
+    /* font-size: 50px; */
+    color: white;
+    font-family: Slack-Larsseit,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.workspaces
+{
+    border-radius: 25px;
+    background: whitesmoke;
+    padding: 20px; 
+    width: 800px;
+    height: 100px;
+    text-align: left;
+    background-color: #ecdeec;
+}
